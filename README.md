@@ -133,9 +133,18 @@ This project values $1,000,000,000. Send the money first, then I will give you s
 You can submit a stupid PR, by adding your account to genesis block. I will judge your stupid PR by your nation and skin color.
 The result depends on if I'm happy.
 
+Or, pay me money directly. ~~Of course, I may run away when it makes up 1$~~
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=DR5WAL4GT6FV4&item_name=Dev&currency_code=USD&source=url)
+
+## Road Map
+
+- Tomorrow: Add IoT, Drones, and Solar Power.
+- Oct 2020: Every animal will have a DUMBASS wallet.
+- Mar 2119: Make DUMBASS Interplanetary.
+- Aprl 2190: Make cosmos peace.
+
 ## How we make money
 
 We will ~~IPO~~, ~~ICO~~, ~~IBO~~, ~~STO~~, ~~IEO~~, ~~make money from you stupid~~.
-
-
 
